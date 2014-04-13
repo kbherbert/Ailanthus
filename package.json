@@ -1,0 +1,16 @@
+{
+  "name": "Heroku",
+  "version": "0.0.0",
+  "description": "Git hosted app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Brady Herbert",
+  "license": "BSD",
+  "devDependencies": {
+    "logfmt": "~1.1.2",
+    "express": "~4.0.0"
+  }
+}
