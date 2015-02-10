@@ -1,22 +1,22 @@
 {
-  "name": "Ailanthus",
-  "description": "Heroku hosted app",
-  "main": "app.js",
-  "version": "0.10.26",
-  "baseDir": "public/",
-  "engines": {
-    "node": "0.10.x"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": "",
-  "author": "Brady Herbert",
-  "license": "BSD",
-  "devDependencies": {
-    "logfmt": "~1.1.2",
-    "express": "~4.0.0",
-    "grunt": "^0.4.4",
-    "grunt-contrib-jshint": "^0.10.0"
-  }
+	"name": "ailanthus",
+	"description": "heroku hosted app",
+	"main": "app.js",
+	"version": "0.10.26",
+	"baseDir": "public/",
+	"engines": {
+		"node": "0.10.x"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": "",
+	"author": "Brady Herbert",
+	"license": "BSD",
+	"devDependencies": {
+		"logfmt": "~1.1.2",
+		"express": "~4.0.0",
+		"grunt": "^0.4.4",
+		"grunt-contrib-jshint": "^0.10.0"
+	}
 }
